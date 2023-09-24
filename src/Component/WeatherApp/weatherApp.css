@@ -2,7 +2,7 @@
     width: 600px;
     height: 600px;
     margin: auto;
-    margin-top: 15px;
+    margin-top: 45px;
     border-radius: 12px;
     background-image: linear-gradient(180deg, #5947bb 0%, #afa8d4 100%);
 }
@@ -39,6 +39,7 @@
     align-items: center;
     display: flex;
     margin-top: 8px;
+    cursor: none;
 }
 .weather-temp{
     justify-content: center;
@@ -47,11 +48,13 @@
     color: white;
     font-weight: 400;
     font-size: 80px;
+    cursor: none;
 }
 .icon{
     margin-top: 10px;
     height: 60px;
     width: 55px;
+    cursor: none;
 }
 .weather-location{
     justify-content: center;
