@@ -2,9 +2,10 @@
     width: 600px;
     height: 600px;
     margin: auto;
-    margin-top: 45px;
+    margin-top: 35px;
     border-radius: 12px;
-    background-image: linear-gradient(180deg, #5947bb 0%, #afa8d4 100%);
+    background-image: linear-gradient(180deg, #444d9e 0%, #62629c 100%);
+    cursor: auto;
 }
 .top-bar{
     display: flex;
